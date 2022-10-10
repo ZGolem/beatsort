@@ -17,7 +17,7 @@ dataSet[dataSetVersion].options = [
     key: "stage",
     tooltip: "Check this to restrict to specific artists.",
     checked: false,
-    sub: [ { name: "Beatles Albums", key: "Beatles"}, { name: "John Albums", key: "John"}, { name: "Paul Albums", key: "Paul" }, { name: "George Albums", key: "George"}, { name: "Traveling Wilburys Albums", key: "Wilb" }, { name: "Ringo Albums", key: "Ringo" }, { name: "Ringo EPs", key: "RingoEP" }, { name: "Past Masters", key: "PM" }, { name: "Unfinished Music", key: "UM" }, { name: "Wonderwall Music / Electronic Sound", key: "GHA" }                            
+    sub: [ { name: "Beatles Albums", key: "Beatles"}, { name: "John Albums", key: "John"}, { name: "Paul Albums", key: "Paul" }, { name: "George Albums", key: "George"}, { name: "Traveling Wilburys Albums", key: "Wilb" }, { name: "Ringo Albums", key: "Ringo" }, { name: "Ringo EPs", key: "RingoEP" }, { name: "Past Masters", key: "PM" }, { name: "Unfinished Music", key: "UM" }, { name: "Electric Arguments", key: "EA" }, { name: "The Family Way", key: "FW" }, { name: "Wonderwall Music / Electronic Sound", key: "GHA" }                            
     ]
   },
 //  {
@@ -43,7 +43,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "RAM",
-    img: "ZXmqksk.jpg",
+    img: "eGD74UV.jpg",
     opts: {
       series: [ "book", "EoSD", "PCB", "IaMP", "IN", "PoFV", "StB", "SWR", "MoF", "SA", "UFO", "soku", "DS", "GFW", "TD", "HM", "DDC", "ISC", "ULiL", "LoLK", "AoCF", "HSiFS" ],
       stage: ["Paul"]
@@ -51,7 +51,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Wild Life",
-    img: "ZXmqksk.jpg",
+    img: "8fPaEWO.jpg",
     opts: {
       series: ["book", "EoSD", "StB", "HM"],
       stage: ["Paul"]
@@ -59,7 +59,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Red Rose Speedway",
-    img: "ZXmqksk.jpg",
+    img: "Rietq4k.jpg",
     opts: {
       series: ["book", "EoSD"],
       stage: ["Paul"]
@@ -67,7 +67,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Band on the Run",
-    img: "ZXmqksk.jpg",
+    img: "f978vxL.jpg",
     opts: {
       series: [ "book", "EoSD", "PCB", "PoFV", "StB", "soku", "GFW", "HM", "DDC", "ISC", "HSiFS" ],
       stage: ["Paul"]
@@ -75,7 +75,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Venus and Mars",
-    img: "ZXmqksk.jpg",
+    img: "d15Xcix.jpg",
     opts: {
       series: ["book", "EoSD", "IaMP", "StB", "soku"],
       stage: ["Paul"]
@@ -83,7 +83,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Wings at the Speed of Sound",
-    img: "ZXmqksk.jpg",
+    img: "T8mkOAX.jpg",
     opts: {
       series: ["book", "EoSD"],
       stage: ["Paul"]
@@ -91,7 +91,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "London Town",
-    img: "ZXmqksk.jpg",
+    img: "LoOCZHD.jpg",
     opts: {
       series: ["book", "EoSD", "IaMP", "StB", "SWR", "soku", "HM"],
       stage: ["Paul"]
@@ -99,7 +99,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Back to the Egg",
-    img: "ZXmqksk.jpg",
+    img: "RrE8gwc.jpg",
     opts: {
       series: [ "book", "EoSD", "PCB", "IaMP", "IN", "PoFV", "StB", "SWR", "soku", "HM", "DDC", "ISC" ],
       stage: ["Paul"]
@@ -107,7 +107,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "McCartney II",
-    img: "ZXmqksk.jpg",
+    img: "QOOS990.jpg",
     opts: {
       series: ["book", "EoSD", "IaMP", "IN", "StB", "SWR", "soku", "HM", "ISC"],
       stage: ["Paul"]
@@ -115,7 +115,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Tug of War",
-    img: "ZXmqksk.jpg",
+    img: "zf4lvwi.jpg",
     opts: {
       series: ["book", "EoSD", "StB"],
       stage: ["Paul"]
@@ -123,7 +123,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Pipes of Peace",
-    img: "ZXmqksk.jpg",
+    img: "D1LbixZ.jpg",
     opts: {
       series: ["book", "PCB", "StB", "HM"],
       stage: ["Paul"]
@@ -131,7 +131,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Give My Regards to Broad Street",
-    img: "ZXmqksk.jpg",
+    img: "TUl0k1I.jpg",
     opts: {
       series: ["book", "PCB", "IaMP", "StB", "SWR", "soku", "HM"],
       stage: ["Paul"]
@@ -139,7 +139,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Press to Play",
-    img: "ZXmqksk.jpg",
+    img: "WazXU5i.jpg",
     opts: {
       series: ["book", "PCB", "IaMP", "IN", "StB", "SWR", "soku", "HM"],
       stage: ["Paul"]
@@ -147,7 +147,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Choba B CCCP",
-	img: "ZXmqksk.jpg",
+	img: "Ek7M1J6.jpg",
     opts: {
       series: ["book", "PCB", "PoFV", "HM", "HSiFS"],
       stage: ["Paul"]
@@ -155,7 +155,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Flowers in the Dirt",
-    img: "ZXmqksk.jpg",
+    img: "lpBs1UV.jpg",
     opts: {
       series: ["book", "PCB", "PoFV", "HM", "AoCF"],
       stage: ["Paul"]
@@ -163,7 +163,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Off the Ground",
-    img: "ZXmqksk.jpg",
+    img: "MMRNepN.jpg",
     opts: {
       series: ["book", "PCB", "PoFV", "HM", "AoCF"],
       stage: ["Paul"]
@@ -171,7 +171,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Flaming Pie",
-    img: "ZXmqksk.jpg",
+    img: "1kpznpb.jpg",
     opts: {
       series: ["book", "PCB", "PoFV", "HM", "AoCF"],
       stage: ["Paul"]
@@ -179,7 +179,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Run Devil Run",
-    img: "ZXmqksk.jpg",
+    img: "U4Yg3L3.jpg",
     opts: {
       series: [ "book", "PCB", "IaMP", "IN", "PoFV", "StB", "SWR", "soku", "TD", "HM", "ISC" ],
       stage: ["Paul"]
@@ -187,7 +187,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Driving Rain",
-    img: "ZXmqksk.jpg",
+    img: "UsGqSs9.jpg",
     opts: {
       series: [ "book", "PCB", "IaMP", "IN", "StB", "SWR", "soku", "TD", "HM", "ISC" ],
       stage: ["Paul"]
@@ -195,7 +195,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Chaos and Creation in the Backyard",
-    img: "ZXmqksk.jpg",
+    img: "RCeiXwZ.jpg",
     opts: {
       series: ["book", "PCB", "IaMP", "IN", "StB", "SWR", "soku", "HM"],
       stage: ["Paul"]
@@ -203,7 +203,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Memory Almost Full",
-    img: "ZXmqksk.jpg",
+    img: "LrCyfOR.jpg",
     opts: {
       series: [ "book", "PCB", "IaMP", "IN", "StB", "SWR", "soku", "HM", "ISC", "AoCF" ],
       stage: ["Paul"]
@@ -211,7 +211,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Kisses on the Bottom",
-    img: "ZXmqksk.jpg",
+    img: "0I4oa08.jpg",
     opts: {
       series: ["book", "IaMP", "StB", "SWR", "soku", "DS", "HM", "ISC"],
       stage: ["Paul"]
@@ -219,7 +219,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "New",
-    img: "ZXmqksk.jpg",
+    img: "2MRIc4n.jpg",
     opts: {
       series: ["book", "IN", "StB", "HM"],
       stage: ["Paul"]
@@ -227,7 +227,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Egypt Station",
-    img: "ZXmqksk.jpg",
+    img: "F3lFeq4.jpg",
     opts: {
       series: ["book", "IN", "PoFV", "StB", "HM"],
       stage: ["Paul"]
@@ -235,7 +235,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "McCartney III",
-    img: "ZXmqksk.jpg",
+    img: "0Xk9gSI.jpg",
     opts: {
       series: ["book", "IN", "StB", "HM", "ISC"],
       stage: ["Paul"]
@@ -243,7 +243,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Plastic Ono Band",
-    img: "ZXmqksk.jpg",
+    img: "YFUymZU.jpg",
     opts: {
       series: ["book", "IN", "StB", "HM", "ISC"],
       stage: ["John"]
@@ -251,7 +251,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Imagine",
-    img: "ZXmqksk.jpg",
+    img: "9ksNnou.jpg",
     opts: {
       series: ["book", "IN", "StB", "HM", "ISC"],
       stage: ["John"]
@@ -259,7 +259,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Sometime In New York City",
-    img: "ZXmqksk.jpg",
+    img: "BW5ERc8.jpg",
     opts: {
       series: ["book", "IN", "StB", "HM", "ISC"],
       stage: ["John"]
@@ -267,7 +267,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Mind Games",
-    img: "ZXmqksk.jpg",
+    img: "OdDAnhH.jpg",
     opts: {
       series: ["book", "IN", "StB", "HM", "ISC"],
       stage: ["John"]
@@ -275,7 +275,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Walls and Bridges",
-    img: "ZXmqksk.jpg",
+    img: "whSmcLv.jpg",
     opts: {
       series: ["book", "IN", "StB", "HM", "ISC"],
       stage: ["John"]
@@ -283,7 +283,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Rock n Roll",
-    img: "ZXmqksk.jpg",
+    img: "mPXMZSE.jpg",
     opts: {
       series: ["book", "IN", "StB", "HM", "ISC"],
       stage: ["John"]
@@ -291,7 +291,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Double Fantasy",
-    img: "ZXmqksk.jpg",
+    img: "TSRqDSl.jpg",
     opts: {
       series: ["book", "IN", "StB", "HM", "ISC"],
       stage: ["John"]
@@ -299,7 +299,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Milk and Honey",
-    img: "ZXmqksk.jpg",
+    img: "fGlxytQ.jpg",
     opts: {
       series: ["book", "IN", "StB", "HM", "ISC"],
       stage: ["John"]
@@ -307,7 +307,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "All Things Must Pass",
-    img: "ZXmqksk.jpg",
+    img: "gfASGre.jpg",
     opts: {
       series: ["book", "IN", "StB", "HM", "ISC"],
       stage: ["George"]
@@ -315,7 +315,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Living in the Material World",
-    img: "ZXmqksk.jpg",
+    img: "Wxi5coM.jpg",
     opts: {
       series: ["book", "IN", "StB", "HM", "ISC"],
       stage: ["George"]
@@ -323,7 +323,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Dark Horse",
-    img: "ZXmqksk.jpg",
+    img: "hPy5kAd.jpg",
     opts: {
       series: ["book", "IN", "StB", "HM", "ISC"],
       stage: ["George"]
@@ -331,7 +331,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Extra Texture (Read All About It)",
-    img: "ZXmqksk.jpg",
+    img: "iKGXzwC.jpg",
     opts: {
       series: ["book", "IN", "StB", "HM", "ISC"],
       stage: ["George"]
@@ -339,7 +339,7 @@ dataSet[dataSetVersion].characterData = [
   },  
   {
     name: "Thirty Three & 1/3",
-    img: "ZXmqksk.jpg",
+    img: "o8an7tz.jpg",
     opts: {
       series: ["book", "IN", "StB", "HM", "ISC"],
       stage: ["George"]
@@ -347,7 +347,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "George Harrison",
-    img: "ZXmqksk.jpg",
+    img: "KQMDK2C.jpg",
     opts: {
       series: ["book", "IN", "StB", "HM", "ISC"],
       stage: ["George"]
@@ -355,7 +355,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Somewhere in England",
-    img: "ZXmqksk.jpg",
+    img: "3EqX6fj.jpg",
     opts: {
       series: ["book", "IN", "StB", "HM", "ISC"],
       stage: ["George"]
@@ -363,7 +363,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Gone Troppo",
-    img: "ZXmqksk.jpg",
+    img: "IC8229i.jpg",
     opts: {
       series: ["book", "IN", "StB", "HM", "ISC"],
       stage: ["George"]
@@ -371,7 +371,7 @@ dataSet[dataSetVersion].characterData = [
   },  
   {
     name: "Cloud Nine",
-    img: "ZXmqksk.jpg",
+    img: "qvfFD0i.jpg",
     opts: {
       series: ["book", "IN", "StB", "HM", "ISC"],
       stage: ["George"]
@@ -379,7 +379,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Brainwashed",
-    img: "ZXmqksk.jpg",
+    img: "3hKiLCI.jpg",
     opts: {
       series: ["book", "IN", "StB", "HM", "ISC"],
       stage: ["George"]
@@ -387,7 +387,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Traveling Wilburys Vol. 1",
-    img: "ZXmqksk.jpg",
+    img: "dJFgwai.jpg",
     opts: {
       series: ["book", "IN", "StB", "HM", "ISC"],
       stage: ["Wilb"]
@@ -395,7 +395,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Traveling Wilburys Vol. 3",
-    img: "ZXmqksk.jpg",
+    img: "VKL13wz.jpg",
     opts: {
       series: ["book", "IN", "StB", "HM", "ISC"],
       stage: ["Wilb"]
@@ -403,7 +403,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Sentimental Journey",
-    img: "ZXmqksk.jpg",
+    img: "bWPjv3q.jpg",
     opts: {
       series: ["book", "IN", "StB", "HM", "ISC"],
       stage: ["Ringo"]
@@ -411,7 +411,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Beaucoups of Blues",
-    img: "ZXmqksk.jpg",
+    img: "zFI2GIG.jpg",
     opts: {
       series: ["book", "IN", "StB", "HM", "ISC"],
       stage: ["Ringo"]
@@ -419,7 +419,7 @@ dataSet[dataSetVersion].characterData = [
   }, 
   {  
     name: "Ringo",
-    img: "ZXmqksk.jpg",
+    img: "phgNtpF.jpg",
     opts: {
       series: ["book", "IN", "StB", "HM", "ISC"],
       stage: ["Ringo"]
@@ -427,7 +427,7 @@ dataSet[dataSetVersion].characterData = [
   },  
   {
     name: "Goodnight Vienna",
-    img: "ZXmqksk.jpg",
+    img: "aGfpJH4.jpg",
     opts: {
       series: ["book", "IN", "StB", "HM", "ISC"],
       stage: ["Ringo"]
@@ -435,7 +435,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {  
     name: "Ringo's Rotogravure",
-    img: "ZXmqksk.jpg",
+    img: "3M6IgBC.jpg",
     opts: {
       series: ["book", "IN", "StB", "HM", "ISC"],
       stage: ["Ringo"]
@@ -443,7 +443,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {  
     name: "Ringo the 4th",
-    img: "ZXmqksk.jpg",
+    img: "77SW8G1.jpg",
     opts: {
       series: ["book", "IN", "StB", "HM", "ISC"],
       stage: ["Ringo"]
@@ -451,7 +451,7 @@ dataSet[dataSetVersion].characterData = [
   },  
   {
     name: "Bad Boy",
-    img: "ZXmqksk.jpg",
+    img: "5UeJGSD.jpg",
     opts: {
       series: ["book", "IN", "StB", "HM", "ISC"],
       stage: ["Ringo"]
@@ -459,7 +459,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Stop and Smell the Roses",
-    img: "ZXmqksk.jpg",
+    img: "KPB9dFo.jpg",
     opts: {
       series: ["book", "IN", "StB", "HM", "ISC"],
       stage: ["Ringo"]
@@ -467,7 +467,7 @@ dataSet[dataSetVersion].characterData = [
   },  
   {
     name: "Old Wave",
-    img: "ZXmqksk.jpg",
+    img: "kiYsmHy.jpg",
     opts: {
       series: ["book", "IN", "StB", "HM", "ISC"],
       stage: ["Ringo"]
@@ -475,7 +475,7 @@ dataSet[dataSetVersion].characterData = [
   }, 
   {  
     name: "Times Takes Time",
-    img: "ZXmqksk.jpg",
+    img: "4ojaE67.jpg",
     opts: {
       series: ["book", "IN", "StB", "HM", "ISC"],
       stage: ["Ringo"]
@@ -483,7 +483,7 @@ dataSet[dataSetVersion].characterData = [
   }, 
   {  
     name: "Vertical Man",
-    img: "ZXmqksk.jpg",
+    img: "5kF9X47.jpg",
     opts: {
       series: ["book", "IN", "StB", "HM", "ISC"],
       stage: ["Ringo"]
@@ -491,7 +491,7 @@ dataSet[dataSetVersion].characterData = [
   },  
   {
     name: "I Wanna Be Santa Claus",
-    img: "ZXmqksk.jpg",
+    img: "5YvMPtN.jpg",
     opts: {
       series: ["book", "IN", "StB", "HM", "ISC"],
       stage: ["Ringo"]
@@ -499,7 +499,7 @@ dataSet[dataSetVersion].characterData = [
   },  
   {
     name: "Ringo Rama",
-    img: "ZXmqksk.jpg",
+    img: "eedtnwa.jpg",
     opts: {
       series: ["book", "IN", "StB", "HM", "ISC"],
       stage: ["Ringo"]
@@ -507,7 +507,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Choose Love",
-    img: "ZXmqksk.jpg",
+    img: "hjTr4j9.jpg",
     opts: {
       series: ["book", "IN", "StB", "HM", "ISC"],
       stage: ["Ringo"]
@@ -515,7 +515,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Liverpool 8",
-    img: "ZXmqksk.jpg",
+    img: "d9ecViD.jpg",
     opts: {
       series: ["book", "IN", "StB", "HM", "ISC"],
       stage: ["Ringo"]
@@ -523,7 +523,7 @@ dataSet[dataSetVersion].characterData = [
   },  
   {
     name: "Y Not",
-    img: "ZXmqksk.jpg",
+    img: "MEnxyFV.jpg",
     opts: {
       series: ["book", "IN", "StB", "HM", "ISC"],
       stage: ["Ringo"]
@@ -531,7 +531,7 @@ dataSet[dataSetVersion].characterData = [
   },  
   {
     name: "Ringo 2012",
-    img: "ZXmqksk.jpg",
+    img: "gyNPmgZ.jpg",
     opts: {
       series: ["book", "IN", "StB", "HM", "ISC"],
       stage: ["Ringo"]
@@ -539,7 +539,7 @@ dataSet[dataSetVersion].characterData = [
   },  
   {
     name: "Postcards From Paradise",
-    img: "ZXmqksk.jpg",
+    img: "TlzKnvI.jpg",
     opts: {
       series: ["book", "IN", "StB", "HM", "ISC"],
       stage: ["Ringo"]
@@ -547,7 +547,7 @@ dataSet[dataSetVersion].characterData = [
   },  
   {
     name: "Give More Love",
-    img: "ZXmqksk.jpg",
+    img: "HxNKJu1.jpg",
     opts: {
       series: ["book", "IN", "StB", "HM", "ISC"],
       stage: ["Ringo"]
@@ -555,7 +555,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Whats My Name",
-    img: "ZXmqksk.jpg",
+    img: "iXTisVX.jpg",
     opts: {
       series: ["book", "IN", "StB", "HM", "ISC"],
       stage: ["Ringo"]
@@ -563,7 +563,7 @@ dataSet[dataSetVersion].characterData = [
   }, 
   {
     name: "Zoom In",
-    img: "ZXmqksk.jpg",
+    img: "KQ5EDb7.jpg",
     opts: {
       series: ["book", "IN", "StB", "HM", "ISC"],
       stage: ["RingoEP"]
@@ -571,7 +571,7 @@ dataSet[dataSetVersion].characterData = [
   },  
   {
     name: "Change the World",
-    img: "ZXmqksk.jpg",
+    img: "pSKUE7Y.jpg",
     opts: {
       series: ["book", "IN", "StB", "HM", "ISC"],
       stage: ["RingoEP"]
@@ -579,7 +579,7 @@ dataSet[dataSetVersion].characterData = [
   },  
   {
     name: "EP3",
-    img: "ZXmqksk.jpg",
+    img: "cdUeKVP.jpg",
     opts: {
       series: ["book", "IN", "StB", "HM", "ISC"],
       stage: ["RingoEP"]
@@ -587,7 +587,7 @@ dataSet[dataSetVersion].characterData = [
    },
   {
     name: "Please Please Me",
-    img: "ZXmqksk.jpg",
+    img: "jXKz6pu.jpg",
     opts: {
       series: ["book", "IN", "StB", "HM", "ISC"],
       stage: ["Beatles"]
@@ -595,7 +595,7 @@ dataSet[dataSetVersion].characterData = [
    },
   {
     name: "With the Beatles",
-    img: "ZXmqksk.jpg",
+    img: "JS46UGr.jpg",
     opts: {
       series: ["book", "IN", "StB", "HM", "ISC"],
       stage: ["Beatles"]
@@ -603,7 +603,7 @@ dataSet[dataSetVersion].characterData = [
    },
   {
     name: "A Hard Days Night",
-    img: "ZXmqksk.jpg",
+    img: "rCEfHGI.jpg",
     opts: {
       series: ["book", "IN", "StB", "HM", "ISC"],
       stage: ["Beatles"]
@@ -611,23 +611,24 @@ dataSet[dataSetVersion].characterData = [
    },
   {
     name: "Beatles For Sale",
-    img: "ZXmqksk.jpg",
+    img: "sBashnw.jpg",
     opts: {
       series: ["book", "IN", "StB", "HM", "ISC"],
       stage: ["Beatles"]
     }
    },
   {
+	  
     name: "Help!",
-    img: "ZXmqksk.jpg",
-    opts: {
+    img: "Fg8uNgu.jpg",
+	opts: {
       series: ["book", "IN", "StB", "HM", "ISC"],
       stage: ["Beatles"]
     }
    },
   {
     name: "Rubber Soul",
-    img: "ZXmqksk.jpg",
+    img: "4MRVc1W.jpg",
     opts: {
       series: ["book", "IN", "StB", "HM", "ISC"],
       stage: ["Beatles"]
@@ -635,7 +636,7 @@ dataSet[dataSetVersion].characterData = [
    },
   {
     name: "Revolver",
-    img: "ZXmqksk.jpg",
+    img: "TeOBBOB.jpg",
     opts: {
       series: ["book", "IN", "StB", "HM", "ISC"],
       stage: ["Beatles"]
@@ -643,7 +644,7 @@ dataSet[dataSetVersion].characterData = [
    },
   {
     name: "Sgt Peppers Lonely Hearts Club Band",
-    img: "ZXmqksk.jpg",
+    img: "YuKdtDQ.jpg",
     opts: {
       series: ["book", "IN", "StB", "HM", "ISC"],
       stage: ["Beatles"]
@@ -651,15 +652,15 @@ dataSet[dataSetVersion].characterData = [
    },
    {
     name: "Magical Mystery Tour",
-    img: "ZXmqksk.jpg",
+    img: "omvAO8f.jpg",
     opts: {
       series: ["book", "IN", "StB", "HM", "ISC"],
       stage: ["Beatles"]
     }
    },
   {
-    name: "The Beatles (The White Album)",
-    img: "ZXmqksk.jpg",
+    name: "The Beatles",
+    img: "gEcLrbx.jpg",
     opts: {
       series: ["book", "IN", "StB", "HM", "ISC"],
       stage: ["Beatles"]
@@ -667,7 +668,7 @@ dataSet[dataSetVersion].characterData = [
    },       
   {
     name: "Abbey Road",
-    img: "ZXmqksk.jpg",
+    img: "OtltETe.jpg",
     opts: {
       series: ["book", "IN", "StB", "HM", "ISC"],
       stage: ["Beatles"]
@@ -675,7 +676,7 @@ dataSet[dataSetVersion].characterData = [
    },
    {
     name: "Let it Be",
-    img: "ZXmqksk.jpg",
+    img: "anUA4nn.jpg",
     opts: {
       series: ["book", "IN", "StB", "HM", "ISC"],
       stage: ["Beatles"]
@@ -683,7 +684,7 @@ dataSet[dataSetVersion].characterData = [
    }, 
    {
     name: "Yellow Submarine",
-    img: "ZXmqksk.jpg",
+    img: "GeqaiWt.jpg",
     opts: {
       series: ["book", "IN", "StB", "HM", "ISC"],
       stage: ["Beatles"]
@@ -691,7 +692,7 @@ dataSet[dataSetVersion].characterData = [
    },
    {
     name: "Two Virgins",
-    img: "ZXmqksk.jpg",
+    img: "IuWPhQL.jpg",
     opts: {
       series: ["book", "IN", "StB", "HM", "ISC"],
       stage: ["UM"]
@@ -699,7 +700,7 @@ dataSet[dataSetVersion].characterData = [
    },
    {
     name: "Life With The Lions",
-    img: "ZXmqksk.jpg",
+    img: "5bGpeI9.jpg",
     opts: {
       series: ["book", "IN", "StB", "HM", "ISC"],
       stage: ["UM"]
@@ -707,7 +708,7 @@ dataSet[dataSetVersion].characterData = [
    },
    {
     name: "The Wedding Album",
-    img: "ZXmqksk.jpg",
+    img: "f6Dh9bG.jpg",
     opts: {
       series: ["book", "IN", "StB", "HM", "ISC"],
       stage: ["UM"]
@@ -715,7 +716,7 @@ dataSet[dataSetVersion].characterData = [
    },
    {
     name: "Wonderwall Music",
-    img: "ZXmqksk.jpg",
+    img: "7MIZoJW.jpg",
     opts: {
       series: ["book", "IN", "StB", "HM", "ISC"],
       stage: ["GHA"]
@@ -723,7 +724,7 @@ dataSet[dataSetVersion].characterData = [
    },
    {
     name: "Electronic Sound",
-    img: "ZXmqksk.jpg",
+    img: "kyYzHZq.jpg",
     opts: {
       series: ["book", "IN", "StB", "HM", "ISC"],
       stage: ["GHA"]
@@ -731,10 +732,26 @@ dataSet[dataSetVersion].characterData = [
    },
    {
     name: "Past Masters",
-    img: "ZXmqksk.jpg",
+    img: "dK9U1Pt.jpg",
     opts: {
       series: ["book", "IN", "StB", "HM", "ISC"],
       stage: ["PM"]
+    }
+   },
+      {
+    name: "Electric Arguments",
+    img: "n3jLUwr.jpg",
+    opts: {
+      series: ["book", "IN", "StB", "HM", "ISC"],
+      stage: ["EA"]
+    }
+   },
+         {
+    name: "The Family Way",
+    img: "ij54vLl.jpg",
+    opts: {
+      series: ["book", "IN", "StB", "HM", "ISC"],
+      stage: ["FW"]
     }
    }
 ];
